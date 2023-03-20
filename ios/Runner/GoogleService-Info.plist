@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>213528841856-rdrv8ad8njep7riaqhgfun53a8dtikrt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.213528841856-rdrv8ad8njep7riaqhgfun53a8dtikrt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>213528841856-3rc38keslp5n7utqthm7ut5u0aas9lfv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdz6IGSOMAm1o3bwP3jbQmAY6NRn9SCdo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>213528841856</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.possenger</string>
+	<key>PROJECT_ID</key>
+	<string>possenger-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>possenger-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:213528841856:ios:7550cb0472128e3bfce065</string>
+	<key>DATABASE_URL</key>
+	<string>https://possenger-dev-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

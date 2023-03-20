@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "213528841856",
+    "firebase_url": "https://possenger-dev-default-rtdb.firebaseio.com",
+    "project_id": "possenger-dev",
+    "storage_bucket": "possenger-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213528841856:android:b0d2dbc653011404fce065",
+        "android_client_info": {
+          "package_name": "com.example.tesla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213528841856-3rc38keslp5n7utqthm7ut5u0aas9lfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesla",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN6liS15mOmq5Uo-y5_Im2QhUVRYqtCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213528841856-opckb1fed70fs3qtlqpe5tu455r7oqd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.possenger.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213528841856:android:57a1e6903ac91bdafce065",
+        "android_client_info": {
+          "package_name": "com.possenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213528841856-bptekmq4bjji272gndldp44rrd980gli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.possenger",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN6liS15mOmq5Uo-y5_Im2QhUVRYqtCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213528841856-opckb1fed70fs3qtlqpe5tu455r7oqd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.possenger.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213528841856:android:77f640e5e260b38efce065",
+        "android_client_info": {
+          "package_name": "com.possenger.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213528841856-kudcljvg4qe5c93eq1edq3lchcdhi7v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.possenger.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN6liS15mOmq5Uo-y5_Im2QhUVRYqtCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213528841856-dqp2l9jeavkbp7un9oqjas3ggt43cnq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213528841856-opckb1fed70fs3qtlqpe5tu455r7oqd9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.possenger.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
